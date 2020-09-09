@@ -1,0 +1,31 @@
+
+#include<stdio.h>
+#include<math.h>
+#include<time.h>
+#include<stdlib.h>
+#include<conio.h>
+
+void main(){
+	int i,l;
+	int a[10][10];
+	int x = 0;
+	srand(time(NULL));
+	for(i=0;i<=9;i++){
+		for(l=0;l<=9;l++){
+			a[i][l]=rand()%20+10;
+			printf("[%d][%d]=%d ",i,l,a[i][l]);
+		}
+		printf("\n ");
+	}
+
+	printf("\n ");
+	for(l=0;l<=9;l++){
+		for(i=0;i<=9;i++){
+	  		x += a[i][l];
+		}
+		printf("%d\n", x); // считаем столбцы
+		x = 0;
+	}
+
+_getch();
+}
