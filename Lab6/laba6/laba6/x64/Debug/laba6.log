@@ -1,0 +1,14 @@
+﻿  dynamic_lib.cpp
+  labaTZ.cpp
+D:\PSU\3 семестр\Логика\Лаба 5\laba5\laba5\labaTZ.cpp(172,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\PSU\3 семестр\Логика\Лаба 5\laba5\laba5\labaTZ.cpp(224,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\PSU\3 семестр\Логика\Лаба 5\laba5\laba5\labaTZ.cpp(279,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\PSU\3 семестр\Логика\Лаба 5\laba5\laba5\labaTZ.cpp(266,17): warning C4101: end: неиспользованная локальная переменная
+D:\PSU\3 семестр\Логика\Лаба 5\laba5\laba5\labaTZ.cpp(266,10): warning C4101: start: неиспользованная локальная переменная
+D:\PSU\3 семестр\Логика\Лаба 5\laba5\laba5\labaTZ.cpp(331,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\PSU\3 семестр\Логика\Лаба 5\laba5\laba5\labaTZ.cpp(386,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  record.cpp
+  Source.cpp
+  Создание кода...
+D:\PSU\3 семестр\Логика\Лаба 5\laba5\laba5\record.cpp(119): warning C4715: List::operator[]: значение возвращается не при всех путях выполнения
+  laba6.vcxproj -> D:\PSU\3 семестр\Логика\Лаба 6\laba6\x64\Debug\laba6.exe

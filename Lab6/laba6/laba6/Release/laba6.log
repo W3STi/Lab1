@@ -1,0 +1,18 @@
+﻿  dynamic_lib.cpp
+D:\PSU\3 семестр\Логика\Лаба 5\laba5\laba5\dynamic_lib.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\PSU\3 семестр\Логика\Лаба 5\laba5\laba5\dynamic_lib.cpp(34,20): warning C4018: <: несоответствие типов со знаком и без знака
+  labaTZ.cpp
+D:\PSU\3 семестр\Логика\Лаба 5\laba5\laba5\labaTZ.cpp(172,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\PSU\3 семестр\Логика\Лаба 5\laba5\laba5\labaTZ.cpp(224,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\PSU\3 семестр\Логика\Лаба 5\laba5\laba5\labaTZ.cpp(279,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\PSU\3 семестр\Логика\Лаба 5\laba5\laba5\labaTZ.cpp(266,17): warning C4101: end: неиспользованная локальная переменная
+D:\PSU\3 семестр\Логика\Лаба 5\laba5\laba5\labaTZ.cpp(266,10): warning C4101: start: неиспользованная локальная переменная
+D:\PSU\3 семестр\Логика\Лаба 5\laba5\laba5\labaTZ.cpp(331,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\PSU\3 семестр\Логика\Лаба 5\laba5\laba5\labaTZ.cpp(386,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  record.cpp
+  Source.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 130 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  laba6.vcxproj -> D:\PSU\3 семестр\Логика\Лаба 6\laba6\Release\laba6.exe
